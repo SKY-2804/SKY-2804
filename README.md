@@ -10,17 +10,9 @@
 ---
 
 ## 🛠️ Tech Stack
-
-- C++
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
-- Git
-- GitHub
-- VS Code
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,git,github,vscode&theme=dark" />
+</p>
 
 ## 📚 Currently Learning
 
