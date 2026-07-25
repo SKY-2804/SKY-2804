@@ -2,13 +2,12 @@
 
 # 👋 Hi, I'm Satyam Kumar Yadav
 
-### 🎓 B.Tech CSE Student • PSIT Kanpur • Class of 2028
+### 🎓 B.Tech Computer Science & Engineering
+### Pranveer Singh Institute of Technology (PSIT), Kanpur
 
-### 💻 C++ | DSA | Full Stack (Learning) | AI/ML Enthusiast
+**Software Engineering • Data Structures & Algorithms • Full Stack Development • Artificial Intelligence**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Real+Problems;Learning+Data+Structures+%26+Algorithms;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence"/>
-
-![](https://komarev.com/ghpvc/?username=SKY-2804&style=for-the-badge)
+*"Learning deeply. Building consistently."*
 
 </div>
 
@@ -16,65 +15,105 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Third Year B.Tech CSE Student at PSIT Kanpur
-- 💻 Learning Data Structures & Algorithms in C++
-- 🌐 Learning Full Stack Web Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🚀 Goal: Become a Software Engineer
+I'm a third-year Computer Science & Engineering student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**.
+
+I enjoy solving problems, learning new technologies, and building software that strengthens my understanding of computer science fundamentals.
+
+My current focus is on improving my skills in **Data Structures & Algorithms**, **Software Engineering**, **Full Stack Development**, and **Artificial Intelligence & Machine Learning**.
 
 ---
 
-# 🛠 Tech Stack
+# 🎯 Current Focus
 
-### Languages
+- 📚 Strengthening Data Structures & Algorithms
+- 💻 Writing clean and maintainable code
+- 🌐 Learning Full Stack Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🚀 Building real-world software projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Tools
+### 🔧 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 💻 Operating System
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=apple" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 📂 Featured Projects
 
-- Data Structures & Algorithms
-- C++
+These repositories represent my learning journey and practical experience.
+
+- 🔹 Linked List Implementation (C++)
+- 🔹 Data Structures & Algorithms
+- 🔹 Full Stack Web Projects
+- 🔹 Machine Learning Projects
+
+---
+
+# 📖 Currently Learning
+
+- Advanced Data Structures
+- Object-Oriented Programming
 - React
 - Node.js
+- Express.js
+- MongoDB
 - Machine Learning
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Goals
+
+- ✅ Strengthen problem-solving skills
+- ✅ Build high-quality software projects
+- ✅ Master Full Stack Development
+- ✅ Explore Artificial Intelligence
+- ✅ Prepare for Software Engineering internships
+- ✅ Contribute to Open Source
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKY-2804&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKY-2804&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKY-2804&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKY-2804&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -84,7 +123,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SKY-2804&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com?user=SKY-2804&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -100,37 +139,23 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SKY-2804&theme=algolia&no-frame=true&row=1&column=6"/>
+- GitHub: **https://github.com/SKY-2804**
+- LinkedIn: **https://linkedin.com/in/satyam-kumar-yadav-55a073364**
+- LeetCode: **https://leetcode.com/u/SKY-2804/**
+- HackerRank: **https://www.hackerrank.com/profile/cs1n_2413913**
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master DSA
-- ✅ Solve 300+  Problems
-- ✅ Learn Full Stack Development
-- ✅ Build AI Projects
-- ✅ Get Internship
-- ✅ Contribute to Open Source
-
----
-
-# 📫 Connect With Me
-
-- GitHub : https://github.com/SKY-2804
-- LeetCode : https://leetcode.com/u/SKY-2804/
-- HackerRank : https://www.hackerrank.com/profile/cs1n_2413913
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thank you for visiting my profile!
+
+*"Code with curiosity. Learn with consistency. Build with purpose."*
 
 </div>
