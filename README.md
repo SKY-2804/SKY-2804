@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm **Satyam Kumar Yadav**
 
-### 🎓 B.Tech CSE Student • PSIT Kanpur • Class of 2028
+### 🎓 B.Tech CSE Student • PSIT Kanpur • 2028
 
 ### 🚀 Software Engineer in Progress | DSA Learner | Full Stack Developer | AI/ML Enthusiast
 
@@ -32,7 +32,7 @@ class SatyamKumarYadav {
 public:
 
     string role =
-        "Software Engineer in Progress";
+        "B.Tech CSE Student";
 
     string education =
         "B.Tech Computer Science & Engineering";
@@ -44,7 +44,7 @@ public:
         "2028";
 
     string location =
-        "Uttar Pradesh, India";
+        "Kanpur, Uttar Pradesh, India";
 
     string os =
         "macOS";
@@ -65,4 +65,87 @@ public:
         "Become a Software Engineer and build products used by millions.";
 
 };
-```
+---
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SKY-2804&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKY-2804&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SKY-2804&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKY-2804&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SKY-2804&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
