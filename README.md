@@ -1,24 +1,14 @@
-<!-- ========================================================= -->
-<!--                   GitHub Profile README                   -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm **Satyam Kumar Yadav**
+# 👋 Hi, I'm Satyam Kumar Yadav
 
-### 🎓 B.Tech CSE Student • PSIT Kanpur • 2028
+### 🎓 B.Tech CSE Student • PSIT Kanpur • Class of 2028
 
-### 🚀 Software Engineer in Progress | DSA Learner | Full Stack Developer | AI/ML Enthusiast
+### 💻 C++ | DSA | Full Stack (Learning) | AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Software+That+Solves+Real+Problems;Learning+Data+Structures+%26+Algorithms;Full+Stack+Development;Artificial+Intelligence+%26+Machine+Learning;Welcome+to+my+GitHub+Profile!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Real+Problems;Learning+Data+Structures+%26+Algorithms;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SKY-2804&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/SKY-2804?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/SKY-2804?affiliations=OWNER&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=SKY-2804&style=for-the-badge)
 
 </div>
 
@@ -26,84 +16,41 @@
 
 # 👨‍💻 About Me
 
-```cpp
-class SatyamKumarYadav {
-
-public:
-
-    string role =
-        "B.Tech CSE Student";
-
-    string education =
-        "B.Tech Computer Science & Engineering";
-
-    string college =
-        "Pranveer Singh Institute of Technology (PSIT), Kanpur";
-
-    string graduation =
-        "2028";
-
-    string location =
-        "Kanpur, Uttar Pradesh, India";
-
-    string os =
-        "macOS";
-
-    vector<string> currentlyLearning = {
-
-        "Data Structures & Algorithms",
-
-        "Full Stack Development",
-
-        "Artificial Intelligence",
-
-        "Machine Learning"
-
-    };
-
-    string goal =
-        "Become a Software Engineer and build products used by millions.";
-
-};
----
+- 🎓 Third Year B.Tech CSE Student at PSIT Kanpur
+- 💻 Learning Data Structures & Algorithms in C++
+- 🌐 Learning Full Stack Web Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🚀 Goal: Become a Software Engineer
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
 </p>
 
----
-
-## 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
----
-
-## ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
----
-
-## 🗄️ Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
----
-
-## 🛠️ Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -111,41 +58,79 @@ public:
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 Currently Learning
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SKY-2804&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKY-2804&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+- Data Structures & Algorithms
+- C++
+- React
+- Node.js
+- Machine Learning
 
 ---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SKY-2804&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKY-2804&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SKY-2804&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SKY-2804&theme=github-dark-blue"/>
 
-</div>
-
----
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKY-2804&theme=github-dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKY-2804&theme=github-dark"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=SKY-2804&theme=algolia&no-frame=true&row=1&column=6"/>
 
-</div>
+</p>
 
 ---
+
+# 🎯 2026 Goals
+
+- ✅ Master DSA
+- ✅ Solve 300+  Problems
+- ✅ Learn Full Stack Development
+- ✅ Build AI Projects
+- ✅ Get Internship
+- ✅ Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
+
+- GitHub : https://github.com/SKY-2804
+- LeetCode : https://leetcode.com/u/SKY-2804/
+- HackerRank : https://www.hackerrank.com/profile/cs1n_2413913
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
